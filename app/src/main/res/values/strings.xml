@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HostelHub</string>
+    <string name="Hostel_Hub">Hostel Hub</string>
+    <string name="hms">Hostel Mangement System</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //attendance
+    <string name="scan">Scan</string>
+    <string name="recent_scanned">Recent Scanned</string>
+    <string name="favourites">Favourites</string>
+    <string name="about_app">About App</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+    <string name="by_androchef_youtube_channel">By AndroChef Youtube Channel</string>
+    <string name="recent_scanned_results">Recent Scanned Results</string>
+    <string name="delete">Delete</string>
+    <string name="want_to_delete">Do you really want to delete this result?</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_all">Clear all</string>
+    <string name="clear_all_result">Are you sure to clear all scanned result?</string>
+    <string name="clear">Clear</string>
+    <string name="favourites_scanned_results">Favourite Scanned Results</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="we_need_permission">We need camera permission to scan QR codes. Go to App Settings and manage
+        permissions
+    </string>
+    <string name="grant">Grant</string>
+    <string name="loading">Loading</string>
+</resources>

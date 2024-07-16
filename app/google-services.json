@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546368241928",
+    "project_id": "hostelhub-1ef64",
+    "storage_bucket": "hostelhub-1ef64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546368241928:android:3536b59b65496986baecbd",
+        "android_client_info": {
+          "package_name": "com.example.hostelhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTMxV7MCOi9TDepP8uaviPCrVLTjp8Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
